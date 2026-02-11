@@ -12,5 +12,8 @@ const userpopup = ()=>{
     <h1>
         {handlepopup}
     </h1>
+    <h2>login</h2>
+    <input/>
+    <input/>
     </>
 }
