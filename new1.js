@@ -8,7 +8,7 @@ const news = ()=>{
             `${inport.meta.env.vite}\'url'`
             Headers:{
                 method:get
-                content:
+                content: 
                 authentication:token
             }
         
