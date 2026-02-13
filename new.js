@@ -2,5 +2,5 @@ const news = ()=>{
 
     const handle=()=>{
         
-    }
+    }  
 }  
