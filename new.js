@@ -1,6 +1,7 @@
 const news = ()=>{
 
-    const handle=()=>{
+    const handlemain=()=>{
+        setopen()
         
     }  
 }  
